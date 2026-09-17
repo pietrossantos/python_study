@@ -1,4 +1,4 @@
-# VARIAVEIS
+# VARIAVÉIS
 
 #nome = 'João'
 #idade = 20
